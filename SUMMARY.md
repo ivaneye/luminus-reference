@@ -18,4 +18,4 @@ Luminus Reference Index
 16. [Internationalization](2013-09-29-internationalization.md)
 17. [Deployment](2013-09-30-deployment.md)
 18. [Useful Libraries](2013-10-01-useful_libraries.md)
-19. [upgrading](2013-10-02-upgrading.md)
+19. [Upgrading](2013-10-02-upgrading.md)

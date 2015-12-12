@@ -2,6 +2,8 @@
 
 原文地址:[http://www.luminusweb.net/docs](http://www.luminusweb.net/docs)
 
+Author:Ivan <wangyifan@ivaneye.com>
+
 1. [Your First Application](2013-09-14-your_first_application.md)
 2. [Application Profile](2013-09-15-application_profile.md)
 3. [HTML Templating](2013-09-16-html_templating.md)
@@ -20,4 +22,4 @@
 16. [Internationalization](2013-09-29-internationalization.md)
 17. [Deployment](2013-09-30-deployment.md)
 18. [Useful Libraries](2013-10-01-useful_libraries.md)
-19. [upgrading](2013-10-02-upgrading.md)
+19. [Upgrading](2013-10-02-upgrading.md)
