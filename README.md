@@ -3,6 +3,7 @@
 原文地址:[http://www.luminusweb.net/docs](http://www.luminusweb.net/docs)
 
 Author:Ivan <wangyifan@ivaneye.com>
+
 GitHub:[https://github.com/ivaneye/luminus-reference](https://github.com/ivaneye/luminus-reference)
 
 1. [Your First Application](2013-09-14-your_first_application.md)
