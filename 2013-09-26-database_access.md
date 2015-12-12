@@ -1,13 +1,3 @@
----
-layout: post
-title: Luminus手册-访问数据库
-categories: luminus
-tags: [clojure,luminus]
-avatarimg: "/img/head.jpg"
-author: Ivan
-
----
-
 Configuring the Database
 ========================
 

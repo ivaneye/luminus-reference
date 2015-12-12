@@ -1,13 +1,3 @@
----
-layout: post
-title: Luminus手册-国际化
-categories: luminus
-tags: [clojure,luminus]
-avatarimg: "/img/head.jpg"
-author: Ivan
-
----
-
 Internationalization
 ====================
 

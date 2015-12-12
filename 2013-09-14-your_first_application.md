@@ -1,13 +1,3 @@
----
-layout: post
-title: Luminus手册-第一个应用
-categories: luminus
-tags: [clojure,luminus]
-avatarimg: "/img/head.jpg"
-author: Ivan
-
----
-
 # Guestbook应用
 
 此文使用Luminus构建一个简单的guestbook应用。guestbook可以保存信息，展示信息。此应用将涉及到简单的HTML模板，数据库访问和项目结构.
@@ -661,4 +651,3 @@ lein ring uberwar
 这将会打包一个war包。
 
 完整的源代码可以到[这里](https://github.com/yogthos/guestbook)下载。
-

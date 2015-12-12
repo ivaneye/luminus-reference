@@ -1,13 +1,3 @@
----
-layout: post
-title: Luminus手册-自定义中间件
-categories: luminus
-tags: [clojure,luminus]
-avatarimg: "/img/head.jpg"
-author: Ivan
-
----
-
 Adding custom middleware
 ========================
 
@@ -51,4 +41,3 @@ Useful ring middleware
 -   ring-gzip-middleware - Gzips ring responses for user agents which can handle it
 -   ring-upload-progress - Provide upload progress data in ring session
 -   ring-anti-forgery - Ring middleware to prevent CSRF attacks
-

@@ -1,13 +1,3 @@
----
-layout: post
-title: Luminus手册-部署
-categories: luminus
-tags: [clojure,luminus]
-avatarimg: "/img/head.jpg"
-author: Ivan
-
----
-
 Running Standalone
 ==================
 
@@ -97,4 +87,3 @@ git push heroku master
 
 现在你的应用就被部署到了Heroku上.
 具体信息请看[官方文档](https://devcenter.heroku.com/articles/clojure)
-

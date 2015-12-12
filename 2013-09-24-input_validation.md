@@ -1,12 +1,3 @@
----
-layout: post
-title: Luminus手册-输入验证
-categories: luminus
-tags: [clojure,luminus]
-avatarimg: "/img/head.jpg"
-author: Ivan
-
----
 # Input Validation
 
 验证相关助手方法在noir.validation命名空间中。如果我们要使用验证，我们需要先引入这个命名空间。

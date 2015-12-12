@@ -1,13 +1,3 @@
----
-layout: post
-title: Luminus手册-路由定义
-categories: luminus
-tags: [clojure,luminus]
-avatarimg: "/img/head.jpg"
-author: Ivan
-
----
-
 Defining routes
 ===============
 
@@ -296,4 +286,3 @@ CSRF攻击指的是第三方通过一个验证过的用户来提交动作。当�
 ```
 
 所有的POST请求如果不包含这个token，则会被拒绝。服务器返回403错误。
-

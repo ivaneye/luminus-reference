@@ -1,13 +1,3 @@
----
-layout: post
-title: Luminus手册-响应
-categories: luminus
-tags: [clojure,luminus]
-avatarimg: "/img/head.jpg"
-author: Ivan
-
----
-
 Responses
 =========
 
