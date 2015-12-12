@@ -1,4 +1,4 @@
-Luminus Reference Index
+Luminus手册
 
 1. [Your First Application](2013-09-14-your_first_application.md)
 2. [Application Profile](2013-09-15-application_profile.md)
