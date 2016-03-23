@@ -1,3 +1,12 @@
+---
+layout: post
+title: Luminus手册-静态资源
+categories: luminus
+tags: [clojure,luminus]
+avatarimg: "/img/head.jpg"
+author: wangyifan
+---
+
 Static resources
 ================
 

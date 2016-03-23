@@ -1,3 +1,12 @@
+---
+layout: post
+title: Luminus手册-数据迁移
+categories: luminus
+tags: [clojure,luminus]
+avatarimg: "/img/head.jpg"
+author: wangyifan
+---
+
 # Migrations
 
 默认情况下Luminus使用Ragtime来进行数据迁移。当你在创建Luminus项目时添加了+mysql或+postgres选项时，Ragtime会自动被添加进来。

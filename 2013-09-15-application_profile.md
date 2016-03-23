@@ -1,3 +1,12 @@
+---
+layout: post
+title: Luminus手册-应用配置
+categories: luminus
+tags: [clojure,luminus]
+avatarimg: "/img/head.jpg"
+author: wangyifan
+---
+
 Profiles
 ========
 

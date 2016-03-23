@@ -1,3 +1,12 @@
+---
+layout: post
+title: Luminus手册-ClojureScript
+categories: luminus
+tags: [clojure,luminus]
+avatarimg: "/img/head.jpg"
+author: wangyifan
+---
+
 Summary
 =======
 

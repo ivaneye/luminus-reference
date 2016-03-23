@@ -1,3 +1,12 @@
+---
+layout: post
+title: Luminus手册-升级
+categories: luminus
+tags: [clojure,luminus]
+avatarimg: "/img/head.jpg"
+author: wangyifan
+---
+
 Upgrading to the Latest Version
 ===============================
 

@@ -1,3 +1,12 @@
+---
+layout: post
+title: Luminus手册-部署
+categories: luminus
+tags: [clojure,luminus]
+avatarimg: "/img/head.jpg"
+author: wangyifan
+---
+
 Running Standalone
 ==================
 

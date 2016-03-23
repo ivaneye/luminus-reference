@@ -1,3 +1,12 @@
+---
+layout: post
+title: Luminus手册-路由定义
+categories: luminus
+tags: [clojure,luminus]
+avatarimg: "/img/head.jpg"
+author: wangyifan
+---
+
 Defining routes
 ===============
 

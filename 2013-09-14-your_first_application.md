@@ -1,3 +1,12 @@
+---
+layout: post
+title: Luminus手册-第一个应用
+categories: luminus
+tags: [clojure,luminus]
+avatarimg: "/img/head.jpg"
+author: wangyifan
+---
+
 # Guestbook应用
 
 此文使用Luminus构建一个简单的guestbook应用。guestbook可以保存信息，展示信息。此应用将涉及到简单的HTML模板，数据库访问和项目结构.

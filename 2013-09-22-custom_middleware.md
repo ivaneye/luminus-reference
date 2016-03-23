@@ -1,3 +1,12 @@
+---
+layout: post
+title: Luminus手册-自定义中间件
+categories: luminus
+tags: [clojure,luminus]
+avatarimg: "/img/head.jpg"
+author: wangyifan
+---
+
 Adding custom middleware
 ========================
 
